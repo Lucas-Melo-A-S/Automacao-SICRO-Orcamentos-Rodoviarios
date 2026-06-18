@@ -124,22 +124,22 @@ O sistema gera automaticamente uma planilha Excel contendo as seguintes abas:
 
 ## 🖼️ Demonstração do Sistema
 
-RESUMO:
+RESUMO: Indicadores gerais do orçamento processado.
 <img width="1919" height="1023" alt="Resumo" src="https://github.com/user-attachments/assets/1cbc135b-c192-448c-9a2c-1d159cac28ed" />
 
-SINTETICO:
+SINTETICO: Serviços, quantitativos e custos consolidados.
 <img width="1919" height="1020" alt="Sintetico" src="https://github.com/user-attachments/assets/8b6febac-f864-4d8e-88ae-5828beae2a8a" />
 
-ANALITICO:
+ANALITICO: Detalhamento completo das composições SICRO.
 <img width="1915" height="1017" alt="Analitico" src="https://github.com/user-attachments/assets/b5d23f26-8508-4b44-b476-dcfb3a70c55c" />
 
-DMT:
+DMT: Tempos fixos e momentos de transporte consolidados.
 <img width="1917" height="1023" alt="DMT" src="https://github.com/user-attachments/assets/b9b75bcd-22b3-4d6f-936e-d95bb105bfe1" />
 
-ADM:
+ADM: Recursos administrativos da obra consolidados.
 <img width="1919" height="991" alt="ADM" src="https://github.com/user-attachments/assets/b4be48b8-1dc3-468f-a6e8-17ec8e8cf83e" />
 
-CANTEIRO:
+CANTEIRO: Recursos de infraestrutura e apoio operacional da obra.
 <img width="1919" height="1023" alt="Canteiro" src="https://github.com/user-attachments/assets/fdf7185b-35cd-4258-a22c-10514a9bb31e" />
 
 ---
