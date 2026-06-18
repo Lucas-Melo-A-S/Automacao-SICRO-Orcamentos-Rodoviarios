@@ -1,6 +1,6 @@
 # 🚧 Automação SICRO – Extração, Consolidação e Auditoria de Orçamentos Rodoviários
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green)
 ![Excel](https://img.shields.io/badge/Excel-Automation-darkgreen)
 ![SICRO](https://img.shields.io/badge/SICRO-Infraestrutura-orange).
