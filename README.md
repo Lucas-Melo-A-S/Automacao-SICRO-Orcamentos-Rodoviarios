@@ -29,6 +29,12 @@ O objetivo deste projeto é automatizar essas etapas, reduzindo tempo de process
 
 ---
 
+## Demonstração
+
+<img width="1919" height="1023" alt="Automacao_SICRO_Demo_Profissional" src="https://github.com/user-attachments/assets/5c3df91b-e3a9-416b-bad4-105c5cbcd11c" />
+
+---
+
 ## 🎯 Objetivo
 
 Transformar relatórios SICRO em uma planilha Excel auditável, organizada e pronta para análise técnica pelo engenheiro orçamentista.
@@ -146,37 +152,7 @@ CANTEIRO: Recursos de infraestrutura e apoio operacional da obra.
 
 ## 🔄 Fluxo de Processamento
 
-```text
-Relatórios SICRO
-        │
-        ▼
-Normalização dos Dados
-        │
-        ▼
-Leitura das Composições
-        │
-        ▼
-Extração dos Blocos
-(A, B, C, D, E e F)
-        │
-        ▼
-Consolidação
-        │
-        ├── Equipamentos
-        ├── Mão de Obra
-        ├── Materiais
-        ├── DMT
-        ├── Administração Local
-        └── Canteiro
-        │
-        ▼
-Geração do Excel
-        │
-        ▼
-Validação e Auditoria
-```
-
----
+<img width="1536" height="1024" alt="ChatGPT Image Jun 19, 2026, 10_11_32 AM" src="https://github.com/user-attachments/assets/5ffeec15-4f93-4d8a-96da-86c390592cdc" />
 
 ## 🛠️ Tecnologias Utilizadas
 
