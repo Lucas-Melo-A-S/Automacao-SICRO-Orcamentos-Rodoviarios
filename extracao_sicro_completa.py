@@ -4,13 +4,6 @@ EXTRATOR SICRO — VERSÃO SÊNIOR COMENTADA V16 - INTERFACE COM CANTEIRO PRESER
 Objetivo:
     Ler relatórios sintéticos e analíticos do SICRO, localizar composições,
     extrair blocos técnicos e gerar um Excel consolidado com as abas atuais.
-
-Fluxo preservado:
-    E -> F -> D -> E -> F
-
-Princípio desta revisão:
-    Melhorar legibilidade, rastreabilidade, comentários, constantes e robustez
-    sem alterar o fluxo operacional do sistema.
 """
 
 import re
